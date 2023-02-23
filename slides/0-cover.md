@@ -4,8 +4,7 @@
 
 ### Table of contents
 
-1. Historical perspective
+1. The history of DevOps
 2. Virtualization
-3. DevOps
-4. CI/CD
-5. IaC, GitOps and beyond
+3. CI/CD
+4. IaC, GitOps and beyond
