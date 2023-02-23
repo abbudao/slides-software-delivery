@@ -17,3 +17,9 @@
 
 
 [Estado atual do DevOps](https://www.hipsters.tech/estado-atual-do-devops-hipsters-ponto-tech-240/)
+
+
+## Videos
+
+[The short History of DevOps](https://www.youtube.com/watch?v=o7-IuYS0iSE)
+
